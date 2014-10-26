@@ -16,6 +16,25 @@ all commits and previous versions. You can still
 think of the changes you made on a commit
 before pushing them into the repository.
 
+How can you use staging area to make sure you
+have one commit per logical change?
+By adding a text message to describe the changes
+made before a staged change is commited.
+
+What are some situations when branches would
+be helpful in keeping your history
+organized? How would branches help?
+When you want to experiment with a new version
+but want to keep the original version, creating a
+branch is very convenient, making it possible
+to work on several versions of the same program.
+
+
+
+
+
+
+
 
 
 
