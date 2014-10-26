@@ -29,6 +29,11 @@ but want to keep the original version, creating a
 branch is very convenient, making it possible
 to work on several versions of the same program.
 
+How do diagrams help you visualize the branch
+structure?
+It helps us by showing at what point in the master
+branch do other branches start.
+
 
 
 
