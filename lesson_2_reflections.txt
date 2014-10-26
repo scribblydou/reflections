@@ -34,6 +34,16 @@ structure?
 It helps us by showing at what point in the master
 branch do other branches start.
 
+What is the result of merging two branches
+together? Why do we represent it in the diagram
+the way we do?
+The result is an updated master file with changes
+from a branch incorporated. The diagram form
+makes it readable and easy to understand when
+which changes were made.
+
+
+
 
 
 
