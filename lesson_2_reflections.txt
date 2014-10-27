@@ -42,6 +42,13 @@ from a branch incorporated. The diagram form
 makes it readable and easy to understand when
 which changes were made.
 
+What are the pros and cons of Git's automatic
+merging vs. always doing merging manually?
+It saves time not to have to merges the parts
+that are not conflicting.
+
+
+
 
 
 
