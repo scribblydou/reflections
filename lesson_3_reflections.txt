@@ -1,4 +1,14 @@
-When would you want to use a remote repository rather than keeping all your work local?
-When collaborating on a file with a team, having a remote repository makes it
-possible for all to work independently, and simultaneously able to synchronize
+When would you want to use a remote repository
+rather than keeping all your work local?
+When collaborating on a file with a team, having a 
+remote repository makes it
+possible for all to work independently, and
+simultaneously able to synchronize
 their changes as soon as they are made.
+
+Why might you want to always pull changes manually
+rather than having Git automatically stay
+up-to-date with your remote repository.
+To have better control over the status of your
+files.
+
