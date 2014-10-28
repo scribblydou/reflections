@@ -12,3 +12,16 @@ up-to-date with your remote repository.
 To have better control over the status of your
 files.
 
+Describe the differences between forks, clones
+and branches. When would you use one instead of
+another?
+Clones are identical repositoties that you
+create from a remote or local repository.
+Forks are clones that you create from a
+public repository on Github to another Github
+account.
+Branches are versions of your program that
+veer off from the master branch, when you
+explore or want to try out a new idea without
+changing the master branch of the program.
+
