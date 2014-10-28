@@ -25,3 +25,12 @@ veer off from the master branch, when you
 explore or want to try out a new idea without
 changing the master branch of the program.
 
+What is the benefit of having a copy of the
+last known state of the remote stored
+locally?
+Having a copy of the last known state will
+make it possible to work offline for some
+time, and then pushing commits as soon as
+one goes online again.
+
+ 
