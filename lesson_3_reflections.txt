@@ -42,6 +42,16 @@ seamlessly one can add, commit and merge
 changes that makes collaborating so much
 easier.
 
-
+When would you want to make changes in a
+separate branch rather than directly in
+master? What benefits does each have?
+When work on the branch is still on-going
+and hasn't been finalized, then making
+changes on it rather than in master is
+preferred. Making changes directly in
+master simplifies the merging process
+and makes it easier to avoid mistakes
+and misunderstanding among team
+members.
 
  
