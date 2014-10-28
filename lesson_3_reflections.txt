@@ -33,4 +33,15 @@ make it possible to work offline for some
 time, and then pushing commits as soon as
 one goes online again.
 
+How would you collaborate without using Git
+or GitHub? What would be easier and what
+would be harder?
+I think that after learning about Git and
+GitHub, one realizes how useful and how
+seamlessly one can add, commit and merge
+changes that makes collaborating so much
+easier.
+
+
+
  
